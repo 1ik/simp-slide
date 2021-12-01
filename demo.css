@@ -1,0 +1,23 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background-color: darkcyan;
+}
+
+header {
+  width: 100%;
+  display: block;
+  position: absolute;
+  height: 100px;
+  text-align: center;
+  background-color: beige;
+}
+
+.menu-trigger {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
